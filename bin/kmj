@@ -1,6 +1,6 @@
 #!/usr/bin/env ruby
 
-require 'srt-downloader'
+require 'kmj'
 require 'optparse'
 
 
