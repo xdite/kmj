@@ -1,5 +1,6 @@
 require "kmj/version"
 require "open-uri"
+require "nokogiri"
 
 module Kmj
   class Parser
